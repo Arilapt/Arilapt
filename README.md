@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- Learning Godot 🟦
+- Struggling with cable management
+
 <!--
 **Arilapt/Arilapt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
